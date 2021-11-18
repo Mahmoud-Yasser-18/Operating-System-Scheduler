@@ -1,0 +1,12 @@
+At time 3 allocated 16 to process 1 from 0 to 15
+At time 4 allocated 16 to process 2 from 16 to 31
+At time 5 allocated 64 to process 6 from 64 to 127
+At time 7 freed 16 from process 1 from 0 to 15
+At time 7 allocated 128 to process 7 from 128 to 255
+At time 7 allocated 64 to process 9 from 256 to 319
+At time 8 allocated 64 to process 5 from 320 to 383
+At time 15 freed 64 from process 9 from 256 to 319
+At time 16 freed 64 from process 2 from 16 to 31
+At time 27 freed 64 from process 5 from 320 to 383
+At time 30 freed 64 from process 6 from 64 to 127
+At time 32 freed 64 from process 7 from 128 to 255
